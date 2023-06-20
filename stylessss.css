@@ -1,0 +1,42 @@
+h1{
+  color: blue;
+    background-color: red;
+    font-size: 24px;
+}
+h2{
+  color: red;
+    background-color: yellow;
+    font-size: 24px;
+}
+h3{ color: green;
+background-color: blueviolet;
+font-size: 24px;
+}
+h4{ color: skyblue;
+background-color: pink;
+font-size: 24px;  
+}
+h5{ color: brown;
+background-color: yellowgreen;
+font-size: 24px
+}
+h6{ color: navy;
+background-color: palegoldenrod;
+font-size: 24px}
+.mike{
+  color: black;
+  background-color: blueviolet;
+}
+#chime{
+  color: black;
+  background-color: red;
+}
+h1{
+  color: rebeccapurple;
+  background-color: yellow;
+}
+p{
+  color: red
+}
+
+
